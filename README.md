@@ -38,3 +38,5 @@ Sources: <br />
 https://stackoverflow.com/questions/20530996/aliases-in-windows-command-prompt
 
 https://stackoverflow.com/questions/54866820/create-alias-for-a-specific-command-in-cmd/54872621
+
+https://ss64.com/nt/run.html
