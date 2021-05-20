@@ -32,3 +32,9 @@ If you want to undo this autorun, just provide this command.<br />
 ```
 reg delete "HKCU\Software\Microsoft\Command Processor" /v AutoRun
 ```
+
+
+Sources:
+https://stackoverflow.com/questions/20530996/aliases-in-windows-command-prompt
+
+https://stackoverflow.com/questions/54866820/create-alias-for-a-specific-command-in-cmd/54872621
