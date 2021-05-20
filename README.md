@@ -2,7 +2,7 @@
 Automates Visual Studio Code Project Creation
 
 ## 1. Create specific file
-If you want to run specific batch files, you need to create these batch files anywhere you want (here Desktop\Projects\VSCode).
+If you want to run specific batch files, you need to create these batch files anywhere you want (here Desktop\Projects\VSCode).<br />
 With maybe this code:<br />
 ```
 cd "C:\Users\%USERNAME%\Desktop\Projects\VSCode"
@@ -14,7 +14,7 @@ code .
 ## 2. Create command file
 To run your individual commands (in this case VScode automatically project creation) create a file in your USER Folder: C:\Users\USERNAME and name it "init.cmd".
 Insert your specific code.<br />
-Every doskey tag will create a alias for your specific command.
+Every doskey tag will create a alias for your specific command.<br />
 For Example:<br />
 ```
 @echo off
