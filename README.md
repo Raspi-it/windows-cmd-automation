@@ -13,7 +13,7 @@ code .
 
 ## 2. Create command file
 To run your individual commands (in this case VScode automatically project creation) create a file in your USER Folder: C:\Users\USERNAME and name it "init.cmd".
-Insert your specific code.
+Insert your specific code.<br />
 Every doskey tag will create a alias for your specific command.
 For Example:<br />
 ```
@@ -34,7 +34,7 @@ reg delete "HKCU\Software\Microsoft\Command Processor" /v AutoRun
 ```
 
 
-Sources:
+Sources: <br />
 https://stackoverflow.com/questions/20530996/aliases-in-windows-command-prompt
 
 https://stackoverflow.com/questions/54866820/create-alias-for-a-specific-command-in-cmd/54872621
